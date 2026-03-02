@@ -1,4 +1,9 @@
 ## Enrico Veraldi (Eberald) 🌌
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=PhD+Student+in+Astrophysics+and+Cosmology;Master+Student+in+High+Performance+Computing" /></a>
+</p>
+
 I am a PhD student in Astrophysics and Cosmology at SISSA (Trieste, Italy 🇮🇹) and a Master student ins high peformance computer at ICTP (Trieste, Italy 🇮🇹).
 
 - ♎ [**ORCID**](https://orcid.org/0009-0007-1304-7771)
