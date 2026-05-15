@@ -1,7 +1,7 @@
 <h1 align="center">Enrico Veraldi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;center=true&amp;vCenter=true&amp;lines=PhD+Student+in+Astrophysics+%26+Cosmology;mm+Master+Student+in+High+Performance+Computing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=PhD+Student+in+Astrophysics+%26+Cosmology;Master+Student+in+High+Performance+Computing" />
 </p>
 
 <p align="center">
