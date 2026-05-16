@@ -7,11 +7,10 @@
 <p align="center">
   <a href="https://orcid.org/0009-0007-1304-7771"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff" /></a>
   <a href="https://scixplorer.org/search?n=10&p=1&q=author%3A%22Enrico+Veraldi%22&sort=score+desc&sort=date+desc"><img src="https://img.shields.io/badge/Publications-blue?logo=arxiv&logoColor=fff" /></a>
-  <a href="https://gotha-1.jimdosite.com/"><img src="https://img.shields.io/badge/GOTHA_Group-555?logo=github&logoColor=fff" /></a>
+  <a href="https://gotha-1.jimdosite.com/"><img src="https://img.shields.io/badge/GOTHA_Group-555?logoColor=fff" /></a>
   <a href="https://www.sissa.it/ap/members.php?ID=9116"><img src="https://img.shields.io/badge/SISSA_Page-8B0000?logoColor=fff" /></a>
 </p>
 
----
 
 ## About me 🌌
 
@@ -25,16 +24,12 @@ integrating Bayesian methods and AI agents to fit spectral energy distributions 
 
 I am a member of the [GOTHA](https://gotha-1.jimdosite.com/) group at SISSA.
 
----
-
 ## Research interests 🎯
 
 - **ISM diagnostics** — photoionization modelling with CLOUDY; Bayesian inference on global nebular line and FIR luminosities
 - **High-redshift galaxies** — ALMA and JWST observations; ALPINE-CRISTAL-JWST collaboration
 - **Spectral synthesis** — development of a spectroscopic module for GalaPy with ML-enhanced Bayesian fitting and AI agent
 - **HPC in astrophysics** — parallel and GPU-accelerated computing applied to photoionization and SED modelling
-
----
 
 ## Tech stack 🖥️
 
@@ -63,7 +58,6 @@ I am a member of the [GOTHA](https://gotha-1.jimdosite.com/) group at SISSA.
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 
----
 
 ## GitHub stats 📊
 
