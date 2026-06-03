@@ -41,6 +41,7 @@ I am a member of the [GOTHA](https://gotha-1.jimdosite.com/) group at SISSA.
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
 **Libraries & frameworks**
 
