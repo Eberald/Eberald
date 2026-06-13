@@ -22,7 +22,7 @@ with **CLOUDY** photoionization grids and derive main ISM physical properties th
 Alongside this, I am building a **spectroscopic module** for[GalaPy](https://github.com/TommasoRonconi/galapy), a galaxy SED modelling library,
 integrating Bayesian methods and AI agents to fit spectral energy distributions with nebular line emission.
 
-I am a member of the [GOTHA](https://gotha-1.jimdosite.com/) group at SISSA.
+I am a member of the [GOTHA](https://gotha-1.jimdosite.com/) group at SISSA and of ALPINE-CRISTAL collaboration.
 
 ## Research interests 🎯
 
