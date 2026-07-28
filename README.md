@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://orcid.org/0009-0007-1304-7771"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff" /></a>
   <a href="https://scixplorer.org/search?n=10&p=1&q=author%3A%22Enrico+Veraldi%22&sort=score+desc&sort=date+desc"><img src="https://img.shields.io/badge/Publications-blue?logo=arxiv&logoColor=fff" /></a>
-  <a href="CV_EV_2026.pdf"><img src="https://img.shields.io/badge/CV-PDF-EC1C24?logo=adobeacrobatreader&logoColor=fff" /></a>
+  <a href="CV_EV_2026.pdf"><img src="https://img.shields.io/badge/CV-PDF-EC1C24?logo=adobeacrobatreader&logoColor=fff&labelColor=EC1C24" /></a>
   <a href="https://gotha-1.jimdosite.com/"><img src="https://img.shields.io/badge/GOTHA_Group-555?logoColor=fff" /></a>
   <a href="https://www.sissa.it/ap/members.php?ID=9116"><img src="https://img.shields.io/badge/SISSA_Page-8B0000?logoColor=fff" /></a>
 </p>
