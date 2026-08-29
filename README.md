@@ -8,9 +8,7 @@
   <a href="https://eberald.github.io"><img src="https://img.shields.io/badge/Personal_Website-eberald.github.io-blueviolet?logo=googlechrome&logoColor=fff" /></a>
   <a href="https://orcid.org/0009-0007-1304-7771"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff" /></a>
   <a href="https://eberald.github.io/publications/"><img src="https://img.shields.io/badge/Publications-blue?logo=arxiv&logoColor=fff" /></a>
-  <a href="https://eberald.github.io/cv/"><img src="https://img.shields.io/badge/CV-Interactive_%26_PDF-EC1C24?logo=adobeacrobatreader&logoColor=fff" /></a>
   <a href="https://www.sissa.it/ap/members.php?ID=9116"><img src="https://img.shields.io/badge/SISSA_Page-8B0000?logoColor=fff" /></a>
-  <a href="https://gotha-1.jimdosite.com/"><img src="https://img.shields.io/badge/GOTHA_Group-555?logoColor=fff" /></a>
 </p>
 
 ---
