@@ -19,23 +19,6 @@ My research focuses on characterizing the interstellar medium (ISM) in high-reds
 
 👉 **For my full CV, publications list, talks, and research projects, visit my [personal website](https://eberald.github.io).**
 
----
-
-### Tech Stack 🖥️
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MPI_%2F_OpenMP-005A9C?logoColor=fff" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Linux_%2F_Bash-4EAA25?logo=gnubash&logoColor=fff" />
-</p>
-
----
 
 ### GitHub Stats 📊
 
