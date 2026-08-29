@@ -20,7 +20,6 @@ My research focuses on characterizing the interstellar medium (ISM) in high-reds
 
 👉 **For my full CV, publications list, talks, and research projects, visit my [personal website](https://eberald.github.io).**
 
----
 
 ### Tech Stack 🖥️
 
@@ -35,8 +34,6 @@ My research focuses on characterizing the interstellar medium (ISM) in high-reds
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/Linux_%2F_Bash-4EAA25?logo=gnubash&logoColor=fff" />
 </p>
-
----
 
 ### GitHub Stats 📊
 
